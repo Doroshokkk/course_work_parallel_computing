@@ -6,6 +6,6 @@ To start enter one of the directories: 100, 2000, 5000, or 12500 which represent
 
 Then enter the amount of threads you want to use.
 
-A file named "*directory*_*amount of threads*_threads_*time*millis.txt" will appear in a working directory.
+A file named "directory_amount of threads_time in milliseconds.txt" will appear in a working directory.
 
 In a folder Graphics_test you can see all the files generated while building graphics.
